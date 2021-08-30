@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "John Chapter 1",
+      "body": "vs 1 \nFrom the beginning was the Word, the Word was with God and the Word is God.",
+      "author": "St. John",
+      "id": 1
+    },
+    {
+      "title": "Genesis Chapter 1",
+      "body": "vs 1 \nIn the beginning God created the heaven and the earth.",
+      "author": "Moses",
+      "id": 2
+    }
+  ]
+}
